@@ -1,0 +1,4 @@
+[
+  { "id": 1, "time": "2:30 PM", "buses": 1, "registration": ["Dhaka Metro BA-3001"] },
+  { "id": 2, "time": "5:15 PM", "buses": 1, "registration": ["Dhaka Metro BA-3002"] }
+]

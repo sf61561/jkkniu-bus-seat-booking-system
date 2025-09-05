@@ -1,0 +1,10 @@
+[
+  { "id": 1, "time": "8:00 AM", "buses": 2, "registration": ["Dhaka Metro BA-2001", "Dhaka Metro BA-2002"] },
+  { "id": 2, "time": "8:45 AM", "buses": 3, "registration": ["Dhaka Metro BA-2003", "Dhaka Metro BA-2004", "Dhaka Metro BA-2005"] },
+  { "id": 3, "time": "9:45 AM", "buses": 1, "registration": ["Dhaka Metro BA-2006"] },
+  { "id": 4, "time": "10:45 AM", "buses": 3, "registration": ["Dhaka Metro BA-2007", "Dhaka Metro BA-2008", "Dhaka Metro BA-2009"] },
+  { "id": 5, "time": "2:00 PM", "buses": 2, "registration": ["Dhaka Metro BA-2010", "Dhaka Metro BA-2011"] },
+  { "id": 6, "time": "6:00 PM", "buses": 3, "registration": ["Dhaka Metro BA-2012", "Dhaka Metro BA-2013", "Dhaka Metro BA-2014"] },
+  { "id": 7, "time": "7:00 PM", "buses": 1, "registration": ["Dhaka Metro BA-2015"] },
+  { "id": 8, "time": "9:10 PM", "buses": 2, "registration": ["Dhaka Metro BA-2016", "Dhaka Metro BA-2017"] }
+]

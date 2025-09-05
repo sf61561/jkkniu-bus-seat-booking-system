@@ -1,0 +1,22 @@
+[
+  { "id": 1, "reg": "9884", "password": "pass1234" },
+  { "id": 2, "reg": "9885", "password": "pass5678" },
+  { "id": 3, "reg": "9886", "password": "qwerty98" },
+  { "id": 4, "reg": "9887", "password": "stud2025" },
+  { "id": 5, "reg": "9888", "password": "secure01" },
+  { "id": 6, "reg": "9889", "password": "mypwd876" },
+  { "id": 7, "reg": "9890", "password": "alpha321" },
+  { "id": 8, "reg": "9891", "password": "beta6543" },
+  { "id": 9, "reg": "9892", "password": "gamma111" },
+  { "id": 10, "reg": "9893", "password": "delta222" },
+  { "id": 11, "reg": "9894", "password": "omega999" },
+  { "id": 12, "reg": "9895", "password": "phi7777" },
+  { "id": 13, "reg": "9896", "password": "zeta1234" },
+  { "id": 14, "reg": "9897", "password": "theta456" },
+  { "id": 15, "reg": "9898", "password": "lambda88" },
+  { "id": 16, "reg": "9899", "password": "sigma333" },
+  { "id": 17, "reg": "9900", "password": "user4321" },
+  { "id": 18, "reg": "9901", "password": "pass8765" },
+  { "id": 19, "reg": "9902", "password": "stud1111" },
+  { "id": 20, "reg": "9903", "password": "final999" }
+]
