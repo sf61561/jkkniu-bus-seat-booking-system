@@ -1,0 +1,8 @@
+[
+  { "id": 1, "time": "12:30 PM", "buses": 3, "registration": ["Dhaka Metro BA-1001", "Dhaka Metro BA-1002", "Dhaka Metro BA-1003"] },
+  { "id": 2, "time": "2:15 PM", "buses": 2, "registration": ["Dhaka Metro BA-1004", "Dhaka Metro BA-1005"] },
+  { "id": 3, "time": "3:15 PM", "buses": 4, "registration": ["Dhaka Metro BA-1006", "Dhaka Metro BA-1007", "Dhaka Metro BA-1008", "Dhaka Metro BA-1009"] },
+  { "id": 4, "time": "4:15 PM", "buses": 1, "registration": ["Dhaka Metro BA-1010"] },
+  { "id": 5, "time": "5:15 PM", "buses": 4, "registration": ["Dhaka Metro BA-1011", "Dhaka Metro BA-1012", "Dhaka Metro BA-1013", "Dhaka Metro BA-1014"] },
+  { "id": 6, "time": "8:15 PM", "buses": 2, "registration": ["Dhaka Metro BA-1015", "Dhaka Metro BA-1016"] }
+]

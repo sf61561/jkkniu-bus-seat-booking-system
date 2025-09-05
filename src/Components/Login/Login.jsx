@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import profileImg from '../../assets/images/535389156_122292630104010824_6881921173641357124_n.jpg';
-import logo from '../../assets/images/JKKNIU.PNG'
+import logo from '../../assets/images/JKKNIU.png'
 import { useNavigate } from 'react-router-dom';
 import Swal from 'sweetalert2'
 const Login = () => {
