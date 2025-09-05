@@ -4,6 +4,8 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base:"https://sf61561.github.io/jkkniu-bus-seat-booking-system/"
-  plugins: [react(),tailwindcss()],
+  // When deploying to GitHub Pages for a project site, set base to
+  // the repository name so asset URLs are generated correctly.
+  base: '/jkkniu-bus-seat-booking-system/',
+  plugins: [react(), tailwindcss()],
 })
